@@ -25,7 +25,7 @@ Thank you, @cristiroma for providing the flag data on gitHub.
 You can find the flag data here:
 https://github.com/cristiroma/countries
 
-Contact me at: hopemeansumut@gmail.com
+Contact me at: u.meanshope@gmail.com
 
 PixelMeaner is a simple script that takes the average of pixel RGB values.\
 Copyright(C) 2023 Celal Umut Aydınoğlu
